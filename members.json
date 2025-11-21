@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Harsh",
+        "member_id": "M001",
+        "borrowed_books": []
+    },
+    {
+        "name": "Aman",
+        "member_id": "M002",
+        "borrowed_books": []
+    }
+]

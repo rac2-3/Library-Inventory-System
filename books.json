@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "Raj Tilak Singh",
+        "isbn": "1111",
+        "available": true
+    },
+    {
+        "title": "C Programming",
+        "author": "Ankit Kumar",
+        "isbn": "2222",
+        "available": true
+    }
+]
