@@ -95,9 +95,7 @@ You should include at least 3–5 screenshots:
 2. Add Book  
 3. Register Member  
 4. Borrow Book  
-5. Library Report  
-
-(Optional)  
+5. Library Report (Optional)  
 6. Return Book  
 7. JSON data files  
 
