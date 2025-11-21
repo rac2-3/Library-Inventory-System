@@ -17,8 +17,11 @@ The project fulfills all requirements mentioned in **Assignment 03**.
 
 ##  Project Structure
 library_system/
+
 │── book.py
+
 │── member.py
+
 │── library.py
 │── main.py
 │── books.json (auto-generated)
